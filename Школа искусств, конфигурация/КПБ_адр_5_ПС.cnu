@@ -1,0 +1,9 @@
+[15]
+DeviceType=15
+DeviceVersion=304
+NewConfiguration=1
+LengthConfiguration=94
+Line1=16  0  56  0  40  0  0  1  1  0  1  1  0  1  1  0  1  1  0  1  1  0  1  1  5  0  150  0  94  1  88  2  
+Line2=214  41  39  41  45  5  5  0  150  0  94  1  88  2  214  41  39  41  45  5  16  85  0  0  5  0  0  0  85  0  0  5  
+Line3=0  0  0  85  0  0  5  0  0  0  85  0  0  5  0  0  0  85  0  0  5  0  0  0  85  0  0  5  0  0  0  
+LineCount=3
